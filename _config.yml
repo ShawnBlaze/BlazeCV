@@ -2,7 +2,7 @@
 # Website settings
 title: Shawn Blaze - Full Stack Developer
 description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+keywords: Shawn Blaze github,gh-pages
 baseurl:  /BlazeCV # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://shawnblaze.github.io/BlazeCV/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -19,7 +19,7 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: shawnblaze72626842@gmail.com  # Leave blank if you don't have now
-  cv: shawnblaze.tk  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://shawnblaze.github.io/online-cv/ # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -31,7 +31,7 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: shawnblaze
 
 # analytics
 ## google analytics
